@@ -1,0 +1,14 @@
+{
+	"name": "hses_llm_db01_connection",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"server": "sql-ae-dsdev-hses-llm01-47mqbu4jov2kg.database.windows.net",
+			"database": "hses-llm-db01",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SystemAssignedManagedIdentity"
+		}
+	}
+}
