@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntime2Shir",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "adf-rt-pacedev-hses-openai-llm-datafactory",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c57e2d8e-6ad1-4f18-9d06-b941ed9fc2f1",
+		"tenantId": "4341df80-fbe6-41bf-89b0-e6e2379c9c23"
+	}
+}

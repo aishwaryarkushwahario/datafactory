@@ -1,0 +1,7 @@
+{
+	"name": "AzurePostgreSql378",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/7704663e-8944-4300-b951-6462d41ab638/resourceGroups/arg-rt-pacedev-hses-openai-llm/providers/Microsoft.DBforPostgreSQL/flexibleServers/hse-chatbot-db",
+		"groupId": "postgresqlServer"
+	}
+}

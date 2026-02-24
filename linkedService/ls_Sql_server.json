@@ -1,0 +1,21 @@
+{
+	"name": "ls_Sql_server",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SqlServer",
+		"typeProperties": {
+			"server": "USORESQLHSEC2",
+			"database": "SEReporting",
+			"encrypt": "mandatory",
+			"trustServerCertificate": true,
+			"authenticationType": "SQL",
+			"userName": "readonlyuser",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJiMDRlZWM1OC0xYTI5LTRhZmYtOTdlNC03NGYwMjU4NzNiZmYiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "SHIRLocal",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
