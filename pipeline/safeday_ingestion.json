@@ -475,6 +475,136 @@
 								"sink": {
 									"name": "docRef"
 								}
+							},
+							{
+								"source": {
+									"name": "refVariant",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "refVariant"
+								}
+							},
+							{
+								"source": {
+									"name": "refTemplate",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "refTemplate"
+								}
+							},
+							{
+								"source": {
+									"name": "refTitle",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "refTitle"
+								}
+							},
+							{
+								"source": {
+									"name": "finishDate",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "finishDate"
+								}
+							},
+							{
+								"source": {
+									"name": "_header",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "_header"
+								}
+							},
+							{
+								"source": {
+									"name": "sensitive",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "sensitive"
+								}
+							},
+							{
+								"source": {
+									"name": "archived",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "archived"
+								}
+							},
+							{
+								"source": {
+									"name": "completionReason",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "completionReason"
+								}
+							},
+							{
+								"source": {
+									"name": "status",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "status"
+								}
+							},
+							{
+								"source": {
+									"name": "documents",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "documents"
+								}
+							},
+							{
+								"source": {
+									"name": "complete",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "complete"
+								}
+							},
+							{
+								"source": {
+									"name": "company",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "company"
+								}
+							},
+							{
+								"source": {
+									"name": "employeeType",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "employeeType"
+								}
 							}
 						],
 						"typeConversion": true,
