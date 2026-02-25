@@ -95,6 +95,386 @@
 								"sink": {
 									"name": "equipment"
 								}
+							},
+							{
+								"source": {
+									"name": "shift",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "shift"
+								}
+							},
+							{
+								"source": {
+									"name": "template",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "template"
+								}
+							},
+							{
+								"source": {
+									"name": "templateTitle",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "templateTitle"
+								}
+							},
+							{
+								"source": {
+									"name": "title",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "title"
+								}
+							},
+							{
+								"source": {
+									"name": "descr",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "descr"
+								}
+							},
+							{
+								"source": {
+									"name": "category",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "category"
+								}
+							},
+							{
+								"source": {
+									"name": "priority",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "priority"
+								}
+							},
+							{
+								"source": {
+									"name": "engineHours",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "engineHours"
+								}
+							},
+							{
+								"source": {
+									"name": "odometer",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "odometer"
+								}
+							},
+							{
+								"source": {
+									"name": "ownerId",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "ownerId"
+								}
+							},
+							{
+								"source": {
+									"name": "ownerExternalId",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "ownerExternalId"
+								}
+							},
+							{
+								"source": {
+									"name": "ownerName",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "ownerName"
+								}
+							},
+							{
+								"source": {
+									"name": "ownerEmail",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "ownerEmail"
+								}
+							},
+							{
+								"source": {
+									"name": "ownerCategory",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "ownerCategory"
+								}
+							},
+							{
+								"source": {
+									"name": "userUsedForTeam",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "userUsedForTeam"
+								}
+							},
+							{
+								"source": {
+									"name": "teamsRaw",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "teamsRaw"
+								}
+							},
+							{
+								"source": {
+									"name": "team",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "team"
+								}
+							},
+							{
+								"source": {
+									"name": "persons",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "persons"
+								}
+							},
+							{
+								"source": {
+									"name": "personsNames",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "personsNames"
+								}
+							},
+							{
+								"source": {
+									"name": "client",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "client"
+								}
+							},
+							{
+								"source": {
+									"name": "hasSWP",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "hasSWP"
+								}
+							},
+							{
+								"source": {
+									"name": "createdAt",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "createdAt"
+								}
+							},
+							{
+								"source": {
+									"name": "createdBy",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "createdBy"
+								}
+							},
+							{
+								"source": {
+									"name": "completedAt",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "completedAt"
+								}
+							},
+							{
+								"source": {
+									"name": "involvedUsers",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "involvedUsers"
+								}
+							},
+							{
+								"source": {
+									"name": "lastSavedAt",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "lastSavedAt"
+								}
+							},
+							{
+								"source": {
+									"name": "savedTS",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "savedTS"
+								}
+							},
+							{
+								"source": {
+									"name": "site",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "site"
+								}
+							},
+							{
+								"source": {
+									"name": "siteTitle",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "siteTitle"
+								}
+							},
+							{
+								"source": {
+									"name": "startDate",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "startDate"
+								}
+							},
+							{
+								"source": {
+									"name": "startTime",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "startTime"
+								}
+							},
+							{
+								"source": {
+									"name": "step",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "step"
+								}
+							},
+							{
+								"source": {
+									"name": "stepLabel",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "stepLabel"
+								}
+							},
+							{
+								"source": {
+									"name": "savedWeek",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "savedWeek"
+								}
+							},
+							{
+								"source": {
+									"name": "conductedBy",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "conductedBy"
+								}
+							},
+							{
+								"source": {
+									"name": "involvedSites",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "involvedSites"
+								}
+							},
+							{
+								"source": {
+									"name": "embeddedPermits",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "embeddedPermits"
+								}
+							},
+							{
+								"source": {
+									"name": "docRef",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "docRef"
+								}
 							}
 						],
 						"typeConversion": true,
