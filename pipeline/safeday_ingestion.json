@@ -38,8 +38,62 @@
 						"mappings": [
 							{
 								"source": {
+									"name": "id",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "id"
+								}
+							},
+							{
+								"source": {
 									"name": "level",
-									"type": "String"
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "level"
+								}
+							},
+							{
+								"source": {
+									"name": "docNo",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "docNo"
+								}
+							},
+							{
+								"source": {
+									"name": "variant",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "variant"
+								}
+							},
+							{
+								"source": {
+									"name": "workArea",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "workArea"
+								}
+							},
+							{
+								"source": {
+									"name": "equipment",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "equipment"
 								}
 							}
 						],
