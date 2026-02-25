@@ -1,0 +1,16 @@
+{
+	"name": "hse_sql_db",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "hses_llm_db01_connection",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "safeday_weipa"
+		}
+	}
+}
