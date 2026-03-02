@@ -1,0 +1,7 @@
+{
+	"name": "pe-adf-rt-pacedev-hses-openai-llm-datafactory",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/7704663e-8944-4300-b951-6462d41ab638/resourceGroups/arg-rt-pacedev-hses-openai-llm/providers/Microsoft.Sql/servers/sql-ae-dsdev-hses-llm01-47mqbu4jov2kg",
+		"groupId": "sqlServer"
+	}
+}
